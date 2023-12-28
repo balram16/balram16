@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **panigrahibalram16@gmail.com**
 
-- ⚡ Fun fact **An engaging communicator who injects humor into presentations and interactions.**
+- ⚡ **An engaging communicator who injects humor into presentations and interactions.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
