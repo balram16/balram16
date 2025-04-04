@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balram16&label=Profile%20views&color=0e75b6&style=flat" alt="balram16" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balram16" alt="balram16" /></a> </p>
+- 🌱 I’m currently learning **Blockchain**
 
-<p align="left"> <a href="https://twitter.com/balramp_16" target="blank"><img src="https://img.shields.io/twitter/follow/balramp_16?logo=twitter&style=for-the-badge" alt="balramp_16" /></a> </p>
+- 📫 How to reach me **panigrahibalram16@gmail.co**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
