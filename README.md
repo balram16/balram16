@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balram Panigrahi</h1>
-<h3 align="center">A passionate Fullstack and Blockchain Developer.</h3>
+<h3 align="center">A passionate Fullstack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balram16&label=Profile%20views&color=393e41&style=flat" alt="balram16" /> </p>
 
